@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neel Prajapati
-- 👀 I’m interested in python and backend development
-- 🌱 I’m currently learning python and django
+- 👀 I’m interested in Android development
+- 🌱 I’m currently learning Kotlin and Firebase.
 - 💞️ I’m looking to collaborate on development work
 - 📫 How to reach me https://www.linkedin.com/in/neel-prajapati-737707152/
 
