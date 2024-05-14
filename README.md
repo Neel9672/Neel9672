@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Neel Prajapati
 - 👀 I’m interested in Android development
 - 🌱 I’m currently learning Kotlin and Firebase.
-- 💞️ I’m looking to collaborate on development work
+- 💞️ I’m looking for an opportunity in Android development.
 - 📫 How to reach me https://www.linkedin.com/in/neel-prajapati-737707152/
 
 <!---
